@@ -1,0 +1,29 @@
+.app-container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.input-container {
+  margin-bottom: 20px;
+}
+
+.input-field {
+  margin-left: 10px;
+  width: 50px;
+}
+
+.color-green {
+  color: green;
+}
+
+.color-yellow {
+  color: yellow;
+}
+
+.color-orange {
+  color: orange;
+}
+
+.color-red {
+  color: red;
+}
